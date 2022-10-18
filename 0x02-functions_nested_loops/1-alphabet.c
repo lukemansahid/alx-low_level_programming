@@ -8,7 +8,7 @@ void print_alphabet(void)
 {
 	int lukeman;
 
-	for (lukeman = 'a'; lukeman <= 'z' lukeman++)
+	for (lukeman = 'a'; lukeman <= 'z'; lukeman++)
 	{
 		_putchar(lukeman);
 	}
